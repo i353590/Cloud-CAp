@@ -40,7 +40,7 @@
           "kind": "enterprise-messaging",
           "queue": {
             "name": "refapps/bpems/abc/BusinessPartnerValidation-srv/1234"
-          } 
+          }
         }
       },
       "API_BUSINESS_PARTNER": {
